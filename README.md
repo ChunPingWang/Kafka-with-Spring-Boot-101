@@ -11,6 +11,12 @@ Kafka with Spring Boot 101
 [TOC]
 
 ## Kafka 101
+![image](https://hackmd.io/_uploads/BkSbvLddT.png)
+
+
+![image](https://hackmd.io/_uploads/r1J1DIOup.png)
+
+
 ### 安裝與啟停
 #### 安裝與設定
 > 下載 https://kafka.apache.org/downloads
